@@ -1,0 +1,8 @@
+  <servlet>
+     <servlet-name>Backend</servlet-name>
+     <servlet-class>com.saurabh.Backend</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>Backend</servlet-name>
+  <url-pattern>/myservin</url-pattern>
+  </servlet-mapping> 
