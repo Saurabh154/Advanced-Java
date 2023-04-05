@@ -1,0 +1,8 @@
+ <servlet>
+     <servlet-name>post_method</servlet-name>
+     <servlet-class>com.saurabh.post_method</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>post_method</servlet-name>
+  <url-pattern>/myservin</url-pattern>
+  </servlet-mapping> 
