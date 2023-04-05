@@ -1,0 +1,7 @@
+ <servlet-name>Average</servlet-name>
+     <servlet-class>com.saurabh.Average</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  <servlet-name>Average</servlet-name>
+  <url-pattern>/myserv</url-pattern>
+  </servlet-mapping> 
